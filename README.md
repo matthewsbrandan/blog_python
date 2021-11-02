@@ -11,3 +11,6 @@
     ``` ./env/Scripts/Activate.ps1 ```
   - Com o ambiente startado, basta rodar o comando:
     ``` flask run ```
+
+## URL da aplicação
+  [https://matth-python-blog.herokuapp.com/](https://matth-python-blog.herokuapp.com/)
